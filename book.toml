@@ -1,0 +1,9 @@
+[book]
+authors = ["andylokandy"]
+language = "zh-CN"
+multilingual = true
+src = "src"
+title = "TLA+ for programer"
+
+[build]
+build-dir = "docs"
